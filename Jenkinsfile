@@ -28,11 +28,6 @@ pipeline {
        echo "image step"
        sleep 10 
       }
-    } 
-  }
-}
- 
-      }
     }
      stage ('test'){
       steps {
